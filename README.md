@@ -7,10 +7,6 @@ website. [Website Example](https://yayo-arellano.github.io/flutter_examples_comp
 
 State management: [Riverpod](https://pub.dev/packages/hooks_riverpod)
 
-# Video
-
-[![Youtube](screenshots/youtube.png)](https://youtu.be/rAVaMRXVCIs)
-
 # Screenshots
 
 ![Image 1](screenshots/image1.png)  
